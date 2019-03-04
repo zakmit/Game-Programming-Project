@@ -17,8 +17,6 @@ NTU Game Programming 2018 term project
 
 ![Tutorial](img/Tutorial.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w5NGIImEPgM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Members & Division of Works
 
 c88tm: Girls NPC spawn & Destroit Effect, Energy Bar, Camera Moving Algotiyhm, Scene Transition, Girlfriend's strategy, Map Algorithm.
