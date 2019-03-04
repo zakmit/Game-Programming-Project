@@ -2,11 +2,20 @@
 
 NTU Game Programming 2018 term project
 
+![Title](img/Title.png)
+
+## Introduction
+
+- 在遊戲中，玩家將扮演一個需要喇妹子獲取妹子能量才能活下去的人。雖然主角有一個女朋友，但交往之後他才發現她是一個很可怕的病嬌，他沒有辦法從她身上獲取妹子能量。因為被她發現你在喇妹子，就 Nice Boat 了，所以要在不被她發現的前提下，盡可能的獲取妹子能量活下去。
+
+## Tutorial
+
+
 ## Members & Division of Works
 
-c88tm: Girls NPC spawn and Strategy, Energy Bar, Camera Moving Algotiyhm, Scene Transition, Girlfriend's strategy, Map Algorithm.
+c88tm: Girls NPC spawn & Destroit Effect, Energy Bar, Camera Moving Algotiyhm, Scene Transition, Girlfriend's strategy, Map Algorithm.
 
-zakmit: Scene Arrangement, UI(Menu, Setting, Tutorial ...), All Sprites, Animations, Place Music, Player Interaction, Time System, Friend System, Levels Setting, Special Effect, Progress Bar.
+zakmit: Scene Arrangement, UI(Menu, Setting, Tutorial ...), All Sprites, Animations, Place Music, Player Script, Girls NPC Prototype, Time System, Friend System, Levels Setting, Special Effect, Progress Bar.
 
 ## Materials
 
