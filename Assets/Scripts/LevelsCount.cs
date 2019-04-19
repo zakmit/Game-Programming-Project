@@ -1,4 +1,4 @@
-﻿public static class LevelsCount {
+public static class LevelsCount {
     private static int CurLevel, TotLevel;
 
     public static int CurrentLevel
